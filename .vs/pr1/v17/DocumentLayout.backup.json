@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Student\\pr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Telegram Desktop\\pr1 (2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30846598-90FB-4824-9419-BE2197E1068C}|pr1\\pr1.vcxproj|C:\\Users\\Admin\\source\\repos\\Student\\pr1\\pr1\\.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30846598-90FB-4824-9419-BE2197E1068C}|pr1\\pr1.vcxproj|solutionrelative:pr1\\.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Student\\pr1\\pr1\\.cpp",
+              "RelativeDocumentMoniker": "pr1\\.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Student\\pr1\\pr1\\.cpp",
+              "RelativeToolTip": "pr1\\.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T06:04:54.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr1 (2).cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\pr1 (2).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\pr1 (2).cpp",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\pr1 (2).cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\pr1 (2).cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T13:32:37.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
